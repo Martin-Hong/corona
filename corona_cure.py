@@ -1,0 +1,1 @@
+print("Defeat virus")
